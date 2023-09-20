@@ -11,7 +11,7 @@ const client = new Client({
 });
 
 client.on('ready', () => {
-  console.log('The bot is online!');
+  console.log('The bot is online!!');
 });
 
 const configuration = new Configuration({
